@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on [taxopedia](https://github.com/shanedrabing/taxopedia) and [genea]() (this one is still under wraps)
 
-- 🌱 Pursuing an [MS in Bioinformatics](https://advanced.jhu.edu/academics/graduate/ms-bioinformatics/) at Johns Hopkins, AAP
+- 🌱 Pursuing an MS in Bioinformatics at Johns Hopkins, AAP
 
 - 👯 Mentor for the R language track at [exercism.io](https://exercism.io/profiles/shanedrabing)
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 🌱 Pursuing an [MS in Bioinformatics](https://advanced.jhu.edu/academics/graduate/ms-bioinformatics/) at Johns Hopkins, AAP
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
