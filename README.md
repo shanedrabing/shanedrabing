@@ -6,12 +6,20 @@
 
 - 🌱 Pursuing an MS in Bioinformatics at Johns Hopkins, AAP
 
-- 👯 I'm a mentor for the R language track at [exercism.io](https://exercism.io/profiles/shanedrabing)
+- 👯 Mentoring on the R language track at [exercism](https://exercism.io/profiles/shanedrabing)
+
+- 💬 Ask me about tutoring at [Wyzant](https://www.wyzant.com/Tutors/3693146) (link only works if my profile is visible)
 
 - 📝 My (work-in-progress) website can be found [here](https://shanedrabing.github.io/)
 
-- 🤔 I could use some help getting connected to the computational biology researchers
+- 🤔 I could use some help getting connected to computational biology researchers
 
 ---
 
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=shanedrabing&show_icons=true'/>
+<p align="center">
+  <img src='https://github-readme-stats.vercel.app/api?username=shanedrabing&show_icons=true&layout=compact&theme=tokyonight' />
+</p>
+
+<p align="center">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shanedrabing&layout=compact&theme=tokyonight' />
+</p>
