@@ -6,9 +6,9 @@
 
 - 🌱 Pursuing an MS in Bioinformatics at Johns Hopkins, AAP
 
-- 👯 Mentoring on the R language track at [exercism](https://exercism.io/profiles/shanedrabing)
+- 👯 Mentoring on the R language track on [exercism](https://exercism.io/profiles/shanedrabing)
 
-- 💬 Ask me about tutoring at [Wyzant](https://www.wyzant.com/match/tutor/88172405)
+- 💬 Ask me about tutoring on [Wyzant](https://www.wyzant.com/match/tutor/88172405)
 
 - 📝 My (work-in-progress) website can be found [here](https://shanedrabing.github.io/)
 
