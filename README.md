@@ -8,7 +8,7 @@
 
 - 👯 Mentoring on the R language track at [exercism](https://exercism.io/profiles/shanedrabing)
 
-- 💬 Ask me about tutoring at [Wyzant](https://www.wyzant.com/Tutors/3693146) (link only works if my profile is visible)
+- 💬 Ask me about tutoring at [Wyzant](https://www.wyzant.com/match/tutor/88172405)
 
 - 📝 My (work-in-progress) website can be found [here](https://shanedrabing.github.io/)
 
