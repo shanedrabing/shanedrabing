@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 Working on [taxopedia](https://github.com/shanedrabing/taxopedia) and [genea]() (this one is still under wraps)
+- 🔭 Working on [taxopedia](https://github.com/shanedrabing/taxopedia) and [genea](https://github.com/shanedrabing/genea)
 
 - 🌱 Pursuing an MS in Bioinformatics at Johns Hopkins, AAP
 
