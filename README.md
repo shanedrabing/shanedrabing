@@ -14,12 +14,12 @@
 
 - 🤔 I could use some help getting connected to computational biology researchers
 
----
+<!-- --- -->
 
 <!-- <p align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=shanedrabing&show_icons=true&layout=compact&theme=tokyonight' />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shanedrabing&layout=compact&theme=tokyonight' />
-</p>
+</p> -->
