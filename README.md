@@ -2,17 +2,17 @@
 
 ---
 
-- 🔭 Working on [taxopedia](https://github.com/shanedrabing/taxopedia) and [genea](https://github.com/shanedrabing/genea)
+- 🔭 Working on [seedling](https://github.com/shanedrabing/seedling), [pyrat](https://github.com/shanedrabing/pyrat), and [taxopedia](https://github.com/shanedrabing/taxopedia).
 
 - 🌱 Pursuing an MS in Bioinformatics at Johns Hopkins, AAP
 
-- 👯 Mentoring on the R language track on [exercism](https://exercism.io/profiles/shanedrabing)
+- 👯 Mentoring the R language track at [exercism](https://exercism.org/profiles/shanedrabing)
 
-- 💬 Ask me about tutoring on [Wyzant](https://www.wyzant.com/match/tutor/88172405)
+<!-- - 💬 Ask me about tutoring on [Wyzant](https://www.wyzant.com/match/tutor/88172405) -->
 
 - 📝 My (work-in-progress) website can be found [here](https://shanedrabing.github.io/)
 
-- 🤔 I could use some help getting connected to computational biology researchers
+- 🤔 Looking for connections to computational biology researchers
 
 <!-- --- -->
 
