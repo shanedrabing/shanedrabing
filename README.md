@@ -2,9 +2,9 @@
 
 ---
 
-- 🔭 Working on [seedling](https://github.com/shanedrabing/seedling), [pyrat](https://github.com/shanedrabing/pyrat), and [taxopedia](https://github.com/shanedrabing/taxopedia).
+- 🔭 Toying with [seedling](https://github.com/shanedrabing/seedling), [pyrat](https://github.com/shanedrabing/pyrat), and [taxopedia](https://github.com/shanedrabing/taxopedia).
 
-- 🌱 Pursuing an MS in Bioinformatics at Johns Hopkins, AAP
+- 🌱 Just graduated Johns Hopkins, AAP with an MS in Bioinformatics!
 
 - 👯 Mentoring the R language track at [exercism](https://exercism.org/profiles/shanedrabing)
 
