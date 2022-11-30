@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="emoji.svg" />
+  <img src="emoji.svg" width="50%"/>
 </p>
 
 <!--
