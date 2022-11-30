@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="emoji.svg" />
+</p>
+
+<!--
+
 <h3 align="center">Hello, I'm Shane 👋</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanedrabing&layout=compact&theme=transparent&hide=html&langs_count=32" />
 </p>
-
-<!--
 
 - 🔭 Toying with [seedling](https://github.com/shanedrabing/seedling), [pyrat](https://github.com/shanedrabing/pyrat), and [taxopedia](https://github.com/shanedrabing/taxopedia).
 
