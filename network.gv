@@ -1,0 +1,14 @@
+digraph {
+    layout=fdp
+    bgcolor=none
+    
+    node [shape=circle style=filled color=white]
+    edge [color=white]
+    
+    ⏳️ -> ⌚️
+    ⏰️ -> ⌚️
+    ⏲️ -> ⌚️
+    ⛑️ -> 🚝
+    😑 -> 😎
+    🚯 -> 🐻
+}
