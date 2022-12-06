@@ -1,6 +1,17 @@
-<p align="center">
-  <img src="emoji.svg" width="75%"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="emoji.svg" width="100%"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="network.svg" width="80%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--
 
