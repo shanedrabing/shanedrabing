@@ -7,7 +7,7 @@
     </td>
     <td>
       <p align="center">
-        <img src="network.svg" width="80%"/>
+        <img src="network.svg" width="800vh"/>
       </p>
     </td>
   </tr>
