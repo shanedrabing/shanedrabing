@@ -1,7 +1,11 @@
 <h3 align="center">Hello, I'm Shane 👋</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanedrabing&layout=compact&theme=transparent&hide=html&langs_count=32" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shanedrabing&theme=flat&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanedrabing&theme=transparent&exclude=html" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanedrabing&theme=transparent&exclude=html" />
 </p>
 
 <!--
